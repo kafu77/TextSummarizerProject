@@ -29,8 +29,7 @@ list_files = [
     "requirements.txt",
     "setup.py",
     "research/trails.ipynb",
-    "test.py",
-    "ignore.py"
+    "test.py"
             
     
 ]
