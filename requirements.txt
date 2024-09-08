@@ -1,4 +1,4 @@
-pTransformers
+Transformers
 Transformers[sentencepiece]
 datasets
 sacrebleu
@@ -7,7 +7,7 @@ py7zr
 pandas
 nltk
 tqdm
-pyyAML
+pyYAML
 matplotlib
 torch
 notebook

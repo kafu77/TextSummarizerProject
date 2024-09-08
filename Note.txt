@@ -1,0 +1,16 @@
+1. Introduction and GitHub repository setup
+2. Project template creation
+3. Project setup and requirements installation
+4. Preparing logging, Exception, and utils module
+5. Project workflows
+6. Creation source: all components and pipeline notebook experiment
+    components: a. Data ingestion 
+                b. Data Transform
+                c. Data validation
+                d. Model Trainer
+    
+7. All  components modular code implementation
+8. Pipeline modular code implementation:
+              a. train pipeline
+              b. prediction pipeline
+9. Final CI/CD deployment on AWS
