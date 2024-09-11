@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 artifacts_trails/*
 artifacts/*
+artifacts_data_IngnDataVali*/

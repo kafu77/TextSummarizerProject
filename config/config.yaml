@@ -1,5 +1,6 @@
 artifacts_root: artifacts
 
+#Data Ingestion config yaml file
 data_ingestion:
   root_dir: artifacts/data_ingestion
   source_URL: https://github.com/kafu77/DataSets_repo/raw/main/archive%20(2).zip
@@ -7,10 +8,18 @@ data_ingestion:
   unzip_dir: artifacts/data_ingestion
 
 
+#Data validation config yaml file
 data_validation:
   enabled: true
   root_dir: artifacts/data_validation
   STATUS_FILE: artifacts/data_validation/status.txt
   ALL_REQUIRED_FILES: ["train", "test", "validation"]
+
+
+#Data Transformation config yaml file
+data_transformation:
+  root_dir: artifacts/data_transformation
+  data_path: artifacts/data_ingestion/samsum_dataset
+  tokenizer_name: google/pegasus-cnn_dailymail
 
 
