@@ -13,7 +13,10 @@
                     c. Data_Transformation configuration
 
                     d. Model trainer configuration
-6. update the components:
+
+                    e. Model evaluation configuration
+   
+5. update the components:
 
                     a. data_Ingestion
    
@@ -21,8 +24,11 @@
    
                     c. Data_Transformation
 
-                    d. Model trainer 
-8. update the pipeline:
+                    d. Model trainer
+
+                    e. Model evaluation
+   
+6. update the pipeline:
 
                      a. stage_01_data_ingestion
    
@@ -32,6 +38,9 @@
 
                      d. stage_04_model_trainer
 
-11. update the main.py
+                     e. stage_05_Model evaluation
 
-12. update the app.py
+7. update the main.py
+
+
+8. update the app.py
