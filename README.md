@@ -44,3 +44,5 @@
 
 
 8. update the app.py
+
+URL: 130575023474.dkr.ecr.us-west-1.amazonaws.com/texts
