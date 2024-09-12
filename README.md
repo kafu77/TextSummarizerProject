@@ -11,6 +11,8 @@
                     b. Data_Validation configuration
    
                     c. Data_Transformation configuration
+
+                    d. Model trainer configuration
 6. update the components:
 
                     a. data_Ingestion
@@ -18,10 +20,18 @@
                     b. Data_Validation
    
                     c. Data_Transformation
+
+                    d. Model trainer 
 8. update the pipeline:
 
-                     a.stage_01_data_ingestion
+                     a. stage_01_data_ingestion
    
-                     stage_01_data_validation
+                     b. stage_02_data_validation
+
+                     c. stage_03_data_transformation
+
+                     d. stage_04_model_trainer
+
 11. update the main.py
+
 12. update the app.py
