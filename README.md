@@ -45,6 +45,7 @@
 
 8. update the app.py
 
+<<<<<<< HEAD
 
 
 # How to run?
@@ -149,3 +150,6 @@ AWS_REGION = us-east-1
 AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
 ECR_REPOSITORY_NAME = simple-app
+=======
+URL: 130575023474.dkr.ecr.us-west-1.amazonaws.com/texts
+>>>>>>> 52a3fa56772a060c40fa62022939c3aaee4565f3
